@@ -12,7 +12,7 @@
 
 ---
 ### Resources
-Please visit the [wiki](https://github.com/pierredepaz/software-art-image/wiki)
+Please visit the [wiki](https://github.com/pierredepaz/software-art-image/wiki).
 
 ---
 ### Description
