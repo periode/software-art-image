@@ -10,6 +10,11 @@
 ### Instructor
 [Pierre Depaz](mailto:pierre.depaz@nyu.edu)
 
+---
+### Resources
+Please visit the [wiki](https://github.com/pierredepaz/software-art-image/wiki)
+
+---
 ### Description
 Although computers only appeared a few decades ago, automation, repetition and process are concepts that have been floating around artists’ minds for almost a century. As machines enabled us to operate on a different scale, they escaped the domain of the purely functional and started to be used, and understood, by artists. The result has been the emergence of code-based art, a relatively new field in the rich tradition of arts history that today acts as an accessible new medium in the practice of visual artists, sculptors, musicians and performers.
 
