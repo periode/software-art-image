@@ -2,7 +2,8 @@
 
 <br>
 
-*Art is a breach in the system* --Véra Molnar
+*Art is a breach in the system* 
+--Véra Molnar
 
 <br>
 
