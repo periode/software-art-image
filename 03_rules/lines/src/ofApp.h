@@ -6,7 +6,7 @@ class ofApp : public ofBaseApp{
     
     ofPolyline line;
     vector<ofPolyline> threads;
-    vector<ofVec3f> initial_points;
+    vector <glm::vec3> initial_points;
     
     int resolution = 100;
     int numberOfThreads = 100;
