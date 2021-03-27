@@ -1,6 +1,18 @@
+
+# Mac Finder files
 *.DS_Store
 
-# Follwing from
+# Makefiles
+Makefile
+addons.make
+config.make
+
+# More Xcode
+Project.xcconfig
+openFrameworks-Info.plist
+*.xcodeproj
+
+# Following from
 # https://gist.github.com/brannondorsey/1df079ea84266e5c5a959602689e2370
 
 ###########################
